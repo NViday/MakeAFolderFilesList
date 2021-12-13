@@ -13,8 +13,8 @@ The First argument is the folder and the second argument is the textfile where t
 Both arguments need to be fullpath fo the script to work
 
 
-** Extra Work **
-What makes a list a list is neatness. The final product of this script is not neat. 
+**Extra Work**
+What makes a list a list is **neatness**. The final product of this script is not neat. 
 So, you might want to open your file in Visual Studio Code, Word or any TextEditor where you can search for files and trim the files path to just their name. 
 
 This could require another script but I am stoping here for today. My lazy self is quite content with the end result and extra 2-seconds formatting.
