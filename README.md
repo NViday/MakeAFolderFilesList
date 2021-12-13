@@ -5,8 +5,11 @@
 	1) if element is a folder, write it down in the list and iterate through it as well
 
 	2) if element is a file, write it down in the list 
+	
+	
+	
 
-**Arguments-**
+**Arguments--**
 The First argument is the folder, 
 
 The second argument is the textfile where to write the list of files.
